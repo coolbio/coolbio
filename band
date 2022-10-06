@@ -1,0 +1,2 @@
+cd  ~/ sites
+git clone git@github.com:coolbio/coolbio.git
